@@ -1,3 +1,5 @@
+console,log,gakubsfjsybfajg,()******-> => 
+
 console.log("Hello, world!");
 s, djgjkhsgb;
 
