@@ -119,3 +119,5 @@ using namespace std;
 #include <unordered_map>
 #include <unordered_set>
 #endif
+
+// std::unique_ptr<scoped_allocator> scoped_allocator(new scoped_allocator());
