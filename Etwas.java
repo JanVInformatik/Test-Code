@@ -1,4 +1,6 @@
 public class Etwas {
+  private int x;
+
   public static void main(String[] args) {
     Etwas etwas = new Etwas();
 
@@ -25,7 +27,7 @@ public class Etwas {
     return x % 2 == 0;
   }
 
-  public booolean istUngerade(int y) {
+  public boolean istUngerade(int y) {
     return x % 2 != 0;
   }
 
